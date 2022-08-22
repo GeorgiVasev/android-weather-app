@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     String LATITUDE;
     String LONGITUDE;
     String CITY = "London,uk";
-    String API = "55ae48a3350e0243a894611299d91b53";
+
 
     TextView addressTxt, updated_atTxt, statusTxt, tempTxt, temp_minTxt, temp_maxTxt, sunriseTxt,
             sunsetTxt, windTxt, pressureTxt, humidityTxt, latTextView, lonTextView;
